@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2204" started-at="2016-10-26T14:28:07Z" finished-at="2016-10-26T14:28:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2204" started-at="2016-10-26T14:28:07Z" finished-at="2016-10-26T14:28:09Z">
+      <class name="com.jpmorgan.stocks.simple.services.SimpleStockServicesFactoryTest">
+        <test-method status="PASS" signature="recordATradeTest()[pri:1, instance:com.jpmorgan.stocks.simple.services.SimpleStockServicesFactoryTest@2f686d1f]" name="recordATradeTest" duration-ms="1928" started-at="2016-10-26T15:28:07Z" finished-at="2016-10-26T15:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recordATradeTest -->
+        <test-method status="PASS" signature="calculateDividendYieldTest()[pri:2, instance:com.jpmorgan.stocks.simple.services.SimpleStockServicesFactoryTest@2f686d1f]" name="calculateDividendYieldTest" duration-ms="5" started-at="2016-10-26T15:28:09Z" finished-at="2016-10-26T15:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateDividendYieldTest -->
+        <test-method status="PASS" signature="calculatePERatioTest()[pri:3, instance:com.jpmorgan.stocks.simple.services.SimpleStockServicesFactoryTest@2f686d1f]" name="calculatePERatioTest" duration-ms="6" started-at="2016-10-26T15:28:09Z" finished-at="2016-10-26T15:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculatePERatioTest -->
+        <test-method status="PASS" signature="calculateStockPriceTest()[pri:4, instance:com.jpmorgan.stocks.simple.services.SimpleStockServicesFactoryTest@2f686d1f]" name="calculateStockPriceTest" duration-ms="62" started-at="2016-10-26T15:28:09Z" finished-at="2016-10-26T15:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateStockPriceTest -->
+        <test-method status="PASS" signature="calculateGBCEAllShareIndexTest()[pri:5, instance:com.jpmorgan.stocks.simple.services.SimpleStockServicesFactoryTest@2f686d1f]" name="calculateGBCEAllShareIndexTest" duration-ms="101" started-at="2016-10-26T15:28:09Z" finished-at="2016-10-26T15:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateGBCEAllShareIndexTest -->
+      </class> <!-- com.jpmorgan.stocks.simple.services.SimpleStockServicesFactoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
